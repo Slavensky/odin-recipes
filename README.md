@@ -1,0 +1,1 @@
+This is my first Odin Project website. It uses local references to go from the initial webpage to different recipes.
